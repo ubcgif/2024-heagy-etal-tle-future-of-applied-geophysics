@@ -1,0 +1,76 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  title: Opportunities for open-source software to accelerate research in applied geophysics
+  description: This article considers the potential for open-source software and open-science practices to accelerate research in applied geophysics and thereby contribute to solutions of geoscientific problems impacting society.
+  authors:
+    - name: Lindsey J. Heagy
+      email: lheagy@eoas.ubc.ca
+      corresponding: true
+      orcid: 0000-0002-1551-5926
+      affiliation:
+        id: ubc
+        name: Department of Earth, Ocean and Atmospheric Sciences, University of British Columbia, Vancouver, British Columbia
+    - name: Seogi Kang
+      affiliation: Department of Geophysics, Stanford University, Stanford, California
+      email: sgkang09@stanford.edu
+      orcid: 0000-0002-9963-936X
+    - name: Joseph Capriotti
+      affiliation: Department of Geophysics, Colorado School of Mines, Golden Colorado
+      email: jcapriot@mines.edu
+    - name: Dominique Fournier
+      affiliation: Mira Geoscience, Vancouver, British Columbia
+      email: dominiquef@mirageoscience.com
+      orcid: 0000-0003-3285-3465
+    - name: Rowan Cockett
+      affiliation: Curvenote Inc, Canmore, Alberta
+      email: rowan@curvenote.com
+      orcid: 0000-0002-7859-8394
+    - name: Douglas W. Oldenburg
+      affiliation: ubc
+      email: doug@eos.ubc.ca
+      orcid: 0000-0002-4327-2124
+  doi: 10.1190/tle43020084.1
+  date: 2023/12/18
+  subject: The future of applied geophysics
+  venue:
+    title: The Leading Edge
+    url: https://library.seg.org/doi/10.1190/tle43020084.1
+  history:
+    received: 2023/10/15
+    accepted: 2023/12/18
+    published: 2024/02/01
+  keywords:
+    - numerical
+    - inversion
+    - magnetics
+    - electromagnetics
+    - gravity
+  abbreviations:
+    FAIR: Findable, Accessible, Interoperable and Reusable
+    ML: machine learning
+    CSEM: controlled source electromagnetics
+    MT: magnetotelluric
+    EM: electromagnetics
+    GMT: Generic Mapping Tools
+    GDP: gross domestic product
+    MVI: magnetic vector inversion
+    IRLS: iteratively reweighted least squares
+    JTV: joint-total variation
+    CG: cross-gradient
+    DC: direct current
+    PGI: petrophysically and geologically guided inversion
+    GWB: Geoscientists Without Borders
+    SEG: Society of Exploration Geophysics
+    DISC: Distinguished Instructor Short Course
+    RAM: random-access memory
+    OSI: Open Source Initiative
+    GPL: GNU General Public License
+  banner: banner.png
+  thumbnail: thumbnail.png
+site:
+  template: article-theme
+  actions:
+    - title: pdf
+      url: heagy-et-al-2024.pdf
+      static: true
