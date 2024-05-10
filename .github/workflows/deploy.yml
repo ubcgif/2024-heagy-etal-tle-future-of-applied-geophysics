@@ -12,10 +12,10 @@ jobs:
       monorepo: false
       id-pattern-regex: '^ubcgif-(?:[a-zA-Z0-9-_]{3,40})$'
       enforce-single-folder: false
-      preview-label: paper
+      preview-label: true
       submit-label: true
       venue: appliedgeophysics
-      collection: presentations
+      collection: papers
       kind: article
       path: paper
     secrets:
