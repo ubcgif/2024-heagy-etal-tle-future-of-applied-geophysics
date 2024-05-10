@@ -15,7 +15,7 @@ jobs:
       preview-label: true
       submit-label: true
       venue: appliedgeophysics
-      collection: papers
+      collection: publications
       kind: article
       path: paper
     secrets:
