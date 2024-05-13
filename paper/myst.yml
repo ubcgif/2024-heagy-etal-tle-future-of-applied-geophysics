@@ -1,6 +1,7 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
+  id: ubcgif-2024-heagy-etal-tle-future
   title: Opportunities for open-source software to accelerate research in applied geophysics
   description: This article considers the potential for open-source software and open-science practices to accelerate research in applied geophysics and thereby contribute to solutions of geoscientific problems impacting society.
   authors:
