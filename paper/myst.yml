@@ -47,6 +47,7 @@ project:
     - magnetics
     - electromagnetics
     - gravity
+    - physics
   abbreviations:
     FAIR: Findable, Accessible, Interoperable and Reusable
     ML: machine learning
